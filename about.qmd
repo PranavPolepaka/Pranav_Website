@@ -1,0 +1,12 @@
+---
+title: "About"
+---
+
+```         
+```
+
+Greetings,
+
+I'm Pranav Polepaka, you can address me as Pranav. I'm a Master's student at George Mason University, where I'm studying data analytics engineering. I graduated from CMR Institute of Technology in Bangalore, India, in August 2020 with a bachelor's degree in information science engineering.
+
+I spent two years and eight months working for an AT&T client at Tech Mahindra Limited as an Automation Test Engineer following my undergraduate degree. I participated in three significant projects that included network monitoring, network automation, and manual testing. Throughout my professional experience, I have gained practical knowledge in 4G/5G networking, Python, Perl, and cloud computing.

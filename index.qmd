@@ -1,0 +1,18 @@
+---
+title: "Pranav Portfolio"
+image: pranav.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 20em
+format: 
+  html: default
+  pdf: default
+editor: visual
+---
+
+Thank you for visiting my webpage!
+
+\
+You may discover all the information about my current and past here, including my educational background, projects I've worked on, seminars I've attended, talents, certificates, work experience, hands-on experience, and much more.
