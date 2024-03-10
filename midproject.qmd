@@ -1,5 +1,6 @@
 ---
 title: "MidProject"
+html: default
 format: pdf
 editor: visual
 ---
