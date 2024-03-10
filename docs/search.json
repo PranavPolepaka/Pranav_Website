@@ -124,5 +124,26 @@
     "title": "Stat515-Mid_Project",
     "section": "MID PROJECT",
     "text": "MID PROJECT"
+  },
+  {
+    "objectID": "Stat515_Mid_Project.html",
+    "href": "Stat515_Mid_Project.html",
+    "title": "Stat515_Mid_Project",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "Stat515_Mid_Project.html#quarto",
+    "href": "Stat515_Mid_Project.html#quarto",
+    "title": "Stat515_Mid_Project",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "Stat515_Mid_Project.html#running-code",
+    "href": "Stat515_Mid_Project.html#running-code",
+    "title": "Stat515_Mid_Project",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
   }
 ]

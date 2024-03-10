@@ -1,6 +1,6 @@
 ---
 title: "Stat515_Mid_Project"
-format: html
+format: pdf
 editor: visual
 ---
 
