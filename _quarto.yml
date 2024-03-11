@@ -9,9 +9,19 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - projects.qmd
+      - sidebar:projects.qmd
       - codes.qmd
       - certifications.qmd
+      
+      
+   sidebar:
+    - id: projects
+      title: "Projects"
+      style: "docked"
+      background: light
+      collapse-level: 2
+      contents: 
+  
       
 
 format:
